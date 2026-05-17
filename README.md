@@ -1,3 +1,13 @@
+## Assessment Deliverables
+
+The main deliverables are:
+
+- SQL scripts in the `sql/` folder
+- Final warehouse CSV exports in the `exports/` folder
+- Gold layer output: `exports/gold_accepted_offers.csv`
+- Data profiling notebook in `notebooks/`
+- Source and warehouse model diagrams in `diagrams/`
+
 # QTAC Data Engineer Technical Assessment
 
 ## 1. Overview
