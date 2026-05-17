@@ -1,0 +1,16 @@
+applicant_id,first_name,last_name,date_of_birth,email,phone,state,postcode,created_date,updated_date
+1001,Sarah,Mitchell,1998-03-15,sarah.mitchell@gmail.com,0412345678,QLD,4000,2025-01-10,2025-01-10
+1002,James,O'Connor,1999-07-22,james.oconnor@hotmail.com,0423456789,QLD,4101,2025-01-10,2025-01-10
+1003,Emily,Zhang,,emily.zhang@outlook.com,0434567890,QLD,4220,2025-01-11,2025-01-11
+1004,Mohammed,Al-Rashid,2000-11-03,m.alrashid@gmail.com,0445678901,NSW,2000,2025-01-11,2025-01-11
+1005,Jessica,Brown,1999-02-28,jess.brown@yahoo.com,0456789012,QLD,4350,2025-01-12,2025-01-12
+1006,Liam,Nguyen,2001-05-14,liam.nguyen@gmail.com,0467890123,QLD,4670,2025-01-12,2025-01-12
+1007,Olivia,Smith,2000-08-30,olivia.smith@outlook.com,,QLD,4000,2025-01-13,2025-01-13
+1008,Ethan,Williams,1998-12-01,ethan.w@gmail.com,0489012345,QLD,4121,2025-01-13,2025-01-13
+1009,Chloe,Patel,1999-09-17,chloe.patel@gmail.com,0490123456,VIC,3000,2025-01-14,2025-01-14
+1010,Noah,Garcia,2001-01-25,noah.garcia@hotmail.com,0401234567,QLD,4500,2025-01-14,2025-01-14
+1011,Ava,Thompson,2000-04-09,ava.thompson@gmail.com,0412345111,QLD,4740,2025-01-15,2025-01-15
+1012,William,Lee,1999-06-30,will.lee@outlook.com,0423456222,QLD,4810,2025-01-15,2025-01-15
+1013,Sophie,Martin,2001-03-21,sophie.m@gmail.com,0434567333,QLD,4000,2025-01-16,2025-01-16
+1014,Jack,Robinson,2000-10-12,jack.robinson@yahoo.com,0445678444,QLD,4305,2025-01-16,2025-01-16
+1015,Isabella,Chen,1998-08-05,isabella.chen@gmail.com,0456789555,QLD,4072,2025-01-17,2025-01-17

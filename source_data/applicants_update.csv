@@ -1,0 +1,7 @@
+applicant_id,first_name,last_name,date_of_birth,email,phone,state,postcode,created_date,updated_date
+1002,James,O'Connor,1999-07-22,james.oconnor@hotmail.com,0423456789,NSW,2010,2025-01-10,2025-02-15
+1005,Jessica,Brown-Taylor,1999-02-28,jess.browntaylor@gmail.com,0456789012,QLD,4350,2025-01-12,2025-02-20
+1007,Olivia,Smith,2000-08-30,olivia.smith@outlook.com,0478901234,QLD,4000,2025-01-13,2025-02-22
+1010,Noah,Garcia,2001-01-25,noah.garcia@hotmail.com,0401234567,QLD,4500,2025-01-14,2025-01-14
+1016,Mia,Johnson,2001-07-19,mia.j@gmail.com,0412999888,QLD,4151,2025-02-25,2025-02-25
+1002,James,O'Connor,1999-07-22,james.oconnor@hotmail.com,0423456789,NSW,2010,2025-01-10,2025-02-15

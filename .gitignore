@@ -1,0 +1,22 @@
+# Python
+__pycache__/
+*.pyc
+.venv/
+venv/
+
+# Jupyter
+.ipynb_checkpoints/
+
+# DuckDB local database files
+*.duckdb
+*.duckdb.wal
+
+# Editor / OS files
+.vscode/
+.DS_Store
+Thumbs.db
+
+# Logs / temp files
+*.log
+tmp/
+temp/
