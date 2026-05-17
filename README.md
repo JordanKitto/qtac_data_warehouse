@@ -18,6 +18,20 @@ I used DuckDB as the SQL engine because it is lightweight, easy to run locally, 
 
 ---
 
+## Model Diagrams
+
+### Source Data Overview
+
+The source data overview shows the raw CSV extracts provided for the assessment and the key fields available in each file.
+
+![Source System Diagram](diagrams/source_system_diagram.drawio.png)
+
+### Kimball Warehouse Model
+
+The Kimball warehouse model shows the final dimensional structure used for the assessment. The model uses `fact_preference` as the central fact table, with applicant, course, and qualification dimensions providing descriptive context.
+
+![Kimball Warehouse Model](diagrams/kimball_warehouse_model.drawio.png)
+
 ## 2. Approach Chosen
 
 I chose a Kimball dimensional model with SCD Type 2 handling for applicants.
